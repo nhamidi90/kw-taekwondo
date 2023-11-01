@@ -3,6 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* ----------------styling */
+
+
+
+
+/*------------------header*/
+
+.logo {
+ font-size: 30px;
+ margin: 20px;
+ text-transform: uppercase;
+}
 
 #hero-image {
     background: url(assets\images\pexels-cottonbro-studio-4428290.jpg) no-repeat center center;
@@ -11,18 +23,23 @@
     position: relative;
 }
 
-#menu-outer {
+nav {
     bottom: 50px;
-    position: absolute;
-    
+    position: absolute; 
+    text-align: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 90px;
+    width: 100%;
 }
 
-.menu {
-    display: flex;
+#menu {
     list-style: none;
-
+    
 }
 
 .menu-item {
     display: inline-block;
+    padding: 30px;
+    font-size: 25px;
 }
