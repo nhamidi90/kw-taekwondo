@@ -13,12 +13,16 @@
 /*------------------header*/
 
 .logo {
- font-size: 30px;
- font-weight: 700;
- color: #524c4a;
- font-family: "Montserrat Alternates", sans-serif;
- margin: 20px;
-
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #524c4a;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-left: 20px;
+    padding: 25px;
+    height: 80px;
+    background-color: #fff;
 }
 
 #hero-image {
