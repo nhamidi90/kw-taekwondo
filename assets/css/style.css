@@ -47,7 +47,7 @@ nav {
     text-align: center;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.5);
-    height: 90px;
+    height: auto;
     width: 100%;
 }
 
@@ -58,6 +58,9 @@ nav {
 
 .menu-item {
     display: inline-block;
-    padding: 30px;
+    padding: 20px;
     font-size: 25px;
+    color: #fff;
+    font-family: "open sans", sans-serif;
+    align-items: center;
 }
