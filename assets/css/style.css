@@ -7,6 +7,14 @@
 }
 /* ----------------styling */
 
+.contact-button {
+    float: right;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    font-family: "roboto" sans-serif;
+    font-size: 18px;
+}
 
 
 
@@ -19,7 +27,7 @@
     font-weight: 700;
     color: #524c4a;
     font-family: "Montserrat Alternates", sans-serif;
-    margin-left: 20px;
+    margin-left: 25px;
     padding: 25px;
     height: 80px;
     background-color: #fff;
