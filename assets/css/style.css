@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,500;1,700&family=Open+Sans&family=Roboto&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -12,8 +14,11 @@
 
 .logo {
  font-size: 30px;
+ font-weight: 700;
+ color: #524c4a;
+ font-family: "Montserrat Alternates", sans-serif;
  margin: 20px;
- text-transform: uppercase;
+
 }
 
 #hero-image {
