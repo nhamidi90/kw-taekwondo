@@ -96,6 +96,7 @@ li a {
     float: left;
     width: 50%;
     clear: both;
+    margin-left: 30px;
 }
 
 .first-quote {
@@ -107,7 +108,7 @@ li a {
     font-size: 30px;
     font-family: "roboto", sans-serif;
     padding: 40px;
-    color: #3a3838;
+    color: #4e4c4c;
 }
 
 .about-me {
@@ -125,5 +126,11 @@ li a {
     font-size: 30px;
     font-family: "roboto", sans-serif;
     padding: 40px;
-    color: #3a3838;
+    color: #4e4c4c;
+}
+
+.quote-name {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #04223a;
 }
