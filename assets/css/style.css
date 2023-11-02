@@ -64,3 +64,19 @@ nav {
     font-family: "open sans", sans-serif;
     align-items: center;
 }
+
+li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#menu a:hover {
+    color:#75c1fa;
+
+}
+
+.active {
+    color:#75c1fa;
+    border-bottom: 1px solid; 
+    border-top: 1px solid;
+}
