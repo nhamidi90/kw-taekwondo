@@ -94,7 +94,7 @@ li a {
     border-top: 1px solid;
 }
 
-/* Homepage */
+/*------------------Homepage*/
 
 .about-us {
     float: left;
@@ -137,4 +137,15 @@ li a {
     font-size: 20px;
     margin-top: 10px;
     color: #04223a;
+}
+
+/*------------------footer*/
+
+footer {
+    clear: both;
+    background-color:#04223a;
+    height: auto;
+    font-family: roboto;
+    color: #fff;
+    padding: 25px;
 }
