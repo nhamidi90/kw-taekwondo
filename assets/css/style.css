@@ -34,6 +34,13 @@ h3 {
     text-align: center;
 }
 
+
+.section-background {
+    background-color: #A1ACBD;
+    display:flex;
+    clear:both;
+}
+
 /*------------------header*/
 
 .top-bar {
@@ -164,12 +171,6 @@ li a {
     float: right;
 }
 
-
-.section-background {
-    background-color: #A1ACBD;
-    height: 354px;
-    clear:both;
-}
 
 
 /*------------------footer*/
