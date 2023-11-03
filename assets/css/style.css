@@ -152,7 +152,16 @@ li a {
     color: #04223a;
 }
 
-
+.contact-button-dark {
+    border-radius: 20px;
+    width: 200px;
+    height: 45px;
+    font-family: "roboto" sans-serif;
+    font-size: 18px;
+    color: #fff;
+    background-color: #04223a;
+    float: right;
+}
 
 /*------------------footer*/
 
