@@ -159,3 +159,8 @@ footer {
 .social-icons a {
     color: #fff;
 }
+
+footer h4 {
+    font-family: "Montserrat Alternates", sans-serif;
+    color: #f0faff
+}
