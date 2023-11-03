@@ -30,7 +30,7 @@
 .logo {
     font-size: 30px;
     font-weight: 700;
-    color: #9b9796;
+    color: #f0faff;
     font-family: "Montserrat Alternates", sans-serif;
     padding: 25px;
     ;
@@ -148,4 +148,6 @@ footer {
     font-family: roboto;
     color: #fff;
     padding: 25px;
+    display: flex;
+    justify-content: space-between;
 }
