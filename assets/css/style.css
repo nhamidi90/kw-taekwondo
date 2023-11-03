@@ -98,17 +98,14 @@ li a {
 
 .about-us {
     float: left;
-    width: 50%;
-    clear: both;
-    margin-left: 30px;
+    width: 60%;
+    padding: 40px;
 }
 
 .first-quote {
     float: right;
-    width: 50%;
-    clear: both;
+    width: 40%;
     text-align: center;
-    align-items: center;
     font-size: 30px;
     font-family: "roboto", sans-serif;
     padding: 40px;
@@ -117,14 +114,13 @@ li a {
 
 .about-me {
     float: right;
-    width: 50%;
-    clear: both;
+    width: 60%;
+    padding: 40px;
 }   
 
 .second-quote {
     float: left;
-    width: 50%;
-    clear: both;
+    width: 40%;
     text-align: center;
     align-items: center;
     font-size: 30px;
