@@ -250,11 +250,10 @@ li a {
     min-width: 400px;
     width:80%;
     color: #04223a;
-    margin: auto;
+    margin: 50px;
     line-height: 10px;
-    padding-top: 30px;
-    padding-bottom: 60px;
-    padding-left: 50px;
+    padding: 30px 50px 50px 50px;
+
 }
 
 .contact-form-button {
