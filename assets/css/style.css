@@ -237,6 +237,52 @@ li a {
 .img {
     width: 70%;
 }
+/*------------------contact*/
+
+.contact-left {
+    width: 50%;
+    float: left;
+    border: 1px solid;
+
+}
+#contact-form {
+    background-color: #DFA01F;
+    min-width: 400px;
+    width:80%;
+    color: #04223a;
+    margin: auto;
+    line-height: 10px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+}
+
+.contact-form-button {
+    border-radius: 20px;
+    border: 3px solid;
+    width: 200px;
+    height: 45px;
+    font-family: "roboto" sans-serif;
+    font-size: 18px;
+    color: #fff;
+    background-color: #04223a;
+}
+
+.contact-form-button:hover {
+    border-radius: 20px;
+    border: 3px solid;
+    width: 200px;
+    height: 45px;
+    font-family: "roboto" sans-serif;
+    font-size: 18px;
+    background-color: #fff;
+    color: #04223a;
+}
+
+#contact-info {
+    width: 50%;
+    float:right;
+}
 /*------------------footer*/
 
 footer {
