@@ -44,6 +44,23 @@ h3 {
 
 }
 
+.page-heading {
+    color: #fff;
+    font-size: 90px;
+    position:absolute;
+    bottom: 150px;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    text-shadow:
+    3px 3px 2px #000,
+    -3px 3px 2px #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
+
 /*------------------header*/
 
 .top-bar {
