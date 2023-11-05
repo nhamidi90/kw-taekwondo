@@ -41,6 +41,7 @@ h3 {
     background-color: #A1ACBD;
     display:flex;
     clear:both;
+
 }
 
 /*------------------header*/
@@ -244,7 +245,6 @@ li a {
 .contact-left {
     width: 50%;
     float: left;
-    border: 1px solid;
 
 }
 #contact-form {
@@ -298,6 +298,14 @@ li a {
 
 .social-icons-dark a {
     color:#04223a;
+}
+
+#map {
+    clear: both;
+    text-align: center;
+    margin: 20px 0;
+    width: 100%;
+
 }
 /*------------------footer*/
 
