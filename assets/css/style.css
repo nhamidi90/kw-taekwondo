@@ -284,9 +284,26 @@ li a {
 /*------------------news*/
 
 .news-image {
-    width :500px;
+    width :100%;
 }
 
+.news-container {
+    width: 70%;
+    border: 10px double;
+    margin: 20px auto;
+    display: flex;
+}
+
+.news-text {
+    width: 50%;
+    float:left;
+    padding: 20px;
+}
+
+.news-image-container {
+    width: 50%;
+    float: right;
+}
 
 /*------------------contact*/
 
