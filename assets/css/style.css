@@ -274,6 +274,12 @@ li a {
     width: 100%;
 }
 
+@media screen and (max-width: 800px) {
+    #gallery {
+      column-count: 2;
+      margin: 0;
+    }
+}
 /*------------------contact*/
 
 .contact-left {
