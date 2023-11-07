@@ -274,9 +274,24 @@ table {
     border: 1px solid;
 }
 .tenets {
-
     margin: 0 50px;
 }
+
+.kup {
+    width:100%;
+    height: 50px;
+    position: relative;
+    border: 1px solid;
+    margin: 5px 0;
+}
+.stripe {
+
+    width: 30px;
+    height: 50px;
+    position: absolute; 
+    right: 30px;
+}
+
 /*------------------gallery*/
 
 #gallery {
