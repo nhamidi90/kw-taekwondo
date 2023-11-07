@@ -281,6 +281,27 @@ li a {
     }
 }
 
+/*------------------classes*/
+
+#classes {
+    width: 100%;
+  display: flex;
+}
+
+.class-container-outer {
+    width: 33%;
+    display: flex;
+    float: left;  
+    margin: 0 auto;
+}
+
+.class-container {
+    border: 1px solid;
+    width: 95%;
+    margin: 30px auto;
+
+}
+
 /*------------------news*/
 
 .news-image {
@@ -345,7 +366,7 @@ li a {
     color: #04223a;
 }
 
-#contact-info-container {
+.contact-info-container {
     width: 50%;
     float:right;
     text-align: center;
