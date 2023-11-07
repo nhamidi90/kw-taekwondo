@@ -271,8 +271,28 @@ li a {
 table {
     width: 80%;
     margin: 20px auto 0 auto;
-    border: 1px solid;
 }
+
+.grading-table th {
+    font-size: 25px;
+    color:#DFA01F;
+    font-family: "open sans", sans-serif;
+}
+
+td {
+    font-weight: bold;
+}
+
+.korean-table th {
+    font-size: 25px;
+    color: #fff;
+    font-family: "open sans", sans-serif;
+}
+
+.korean-table td {
+    padding: 5px 0;
+}
+
 .tenets {
     margin: 0 50px;
 }
