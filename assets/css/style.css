@@ -259,6 +259,24 @@ li a {
     width: 70%;
 }
 
+/*------------------about tkd*/
+
+.about-tkd-container {
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    margin-left: auto;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto 0 auto;
+    border: 1px solid;
+}
+.tenets {
+
+    margin: 0 50px;
+}
 /*------------------gallery*/
 
 #gallery {
