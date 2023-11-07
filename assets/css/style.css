@@ -300,6 +300,20 @@ li a {
     width: 95%;
     margin: 30px auto;
 
+    text-align: center;
+}
+
+.class-container p {
+    padding: 5px 20px;
+}
+
+.class-container h2 {
+    background-color:#c4dae3;
+    padding: 15px;
+}
+
+.class-container .contact-button-dark {
+    margin-bottom: 20px;
 }
 
 /*------------------news*/
