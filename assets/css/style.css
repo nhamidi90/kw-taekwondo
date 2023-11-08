@@ -57,6 +57,7 @@ h4 {
     width: 100%;
     margin: 0;
     padding: 0;
+    line-height: 70px;
 
     text-shadow:
     3px 3px 2px #000,
@@ -330,12 +331,7 @@ td {
     width: 100%;
 }
 
-@media screen and (max-width: 800px) {
-    #gallery {
-      column-count: 2;
-      margin: 0;
-    }
-}
+
 
 /*------------------classes*/
 
@@ -528,4 +524,18 @@ footer {
 footer h4 {
     font-family: "Montserrat Alternates", sans-serif;
     color: #f0faff
+}
+
+/*------------------media queries*/
+
+@media screen and (max-width: 800px) {
+    #gallery {
+      column-count: 2;
+      margin: 0;
+    }
+}
+
+.page-heading {
+    font-size: 50px;
+    padding: 0 10px;
 }
