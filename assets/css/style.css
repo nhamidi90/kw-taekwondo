@@ -437,17 +437,11 @@ td {
 
 /*------------------contact*/
 
-.contact-left {
-    width: 50%;
-    float: left;
-
-}
 #contact-form {
     background-color: #DFA01F;
-    min-width: 400px;
     width:80%;
     color: #04223a;
-    margin: 50px;
+    margin: auto;
     line-height: 10px;
     padding: 30px 50px 50px 50px;
 
@@ -476,10 +470,9 @@ td {
 }
 
 .contact-info-container {
-    width: 50%;
-    float:right;
     text-align: center;
     padding-top: 30px;
+
 }
 
 .contact-info p {
@@ -503,6 +496,7 @@ td {
     width: 100%;
 
 }
+
 /*------------------footer*/
 
 footer {
