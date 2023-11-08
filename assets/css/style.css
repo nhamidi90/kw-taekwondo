@@ -150,9 +150,8 @@ li a {
 /*------------------Homepage*/
 
 .about-us {
-    float: left;
-    width: 60%;
     padding: 40px;
+    margin-bottom: 20px;
 }
 
 .first-quote {
@@ -163,7 +162,6 @@ li a {
     border: 5px solid;
     border-color: #04223a;
     background-color: #DFA01F;
-    width:70%;
     padding: 10px;
 }
 
@@ -173,20 +171,14 @@ li a {
     font-size: 30px;
 }
 
-.about-right {
-    float: right;
-    width: 40%;
+.img-quote {
+padding: 40px;
+margin: auto;
 }
 
-.about-left {
-    float: left;
-    width: 40%;
-}
 
 .about-me {
-    float: right;
-    width: 60%;
-    padding: 40px;
+    padding: 40px 40px 0 40px;
 }   
 
 .second-quote {
@@ -197,7 +189,6 @@ li a {
     border: 5px solid;
     border-color: #04223a;
     background-color: #DFA01F;
-    width:70%;
     padding: 10px;
 }
 .second-quote p {
@@ -229,17 +220,14 @@ li a {
     background-color: #DFA01F;
 }
 
-.center {
-    display: block;
-    margin: 20px auto;
-}
 
 #instructor-name {
     background-color: #04223a;
-    width: 427px;
+    width: 100%;
     text-align: center;
     line-height: 10px;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 #instructor {
@@ -258,7 +246,9 @@ li a {
 }
 
 .img {
-    width: 70%;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
 }
 
 /*------------------about tkd*/
