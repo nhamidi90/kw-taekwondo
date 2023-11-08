@@ -358,7 +358,6 @@ td {
 .class-container-outer {
     width: 33%;
     display: flex;
-    float: left;  
     margin: 0 auto;
 }
 
@@ -366,7 +365,6 @@ td {
     border: 1px solid;
     width: 95%;
     margin: 30px auto;
-
     text-align: center;
 }
 
@@ -553,5 +551,6 @@ footer h4 {
         font-size: 50px;
         padding: 0 10px;
     }
+
 }
 
