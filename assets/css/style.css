@@ -37,6 +37,9 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-weight: bold;
+}
 
 .section-background {
     background-color: #A1ACBD;
@@ -265,8 +268,7 @@ li a {
 .about-tkd-container {
     flex-direction: column;
     text-align: center;
-    padding: 30px;
-    margin-left: auto;
+    padding: 30px 50px;
 }
 
 table {
