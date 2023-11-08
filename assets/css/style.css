@@ -390,7 +390,7 @@ td {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(4, 34,	58, 0.8);
+    background: #0b3558;
     -webkit-transform: scaleY(0);
     transform: scaleY(0);
     -webkit-transform-origin: 50% 0;
