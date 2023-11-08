@@ -37,9 +37,6 @@ h3 {
     text-align: center;
 }
 
-h4 {
-    font-weight: bold;
-}
 
 .section-background {
     background-color: #A1ACBD;
@@ -297,8 +294,26 @@ td {
     padding: 5px 0;
 }
 
-.tenets {
+.tenets-container {
     margin: 0 50px;
+
+}
+
+.tenets {
+    clear:both;
+}
+
+.tenet-title {
+    font-weight: bold;
+    float: left;
+}
+
+.tenet-desc {
+    text-align: left;
+    float: right;
+    width: 66%;
+    margin: 0;
+    padding: 5px;
 }
 
 .kup {
@@ -533,9 +548,10 @@ footer h4 {
       column-count: 2;
       margin: 0;
     }
+
+    .page-heading {
+        font-size: 50px;
+        padding: 0 10px;
+    }
 }
 
-.page-heading {
-    font-size: 50px;
-    padding: 0 10px;
-}
