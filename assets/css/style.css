@@ -542,6 +542,15 @@ footer h4 {
 /*------------------media queries*/
 
 @media screen and (max-width: 800px) {
+    
+    .headings {
+        font-size: 35px;
+    }
+    
+    .contact-button {
+        visibility: hidden;
+    }
+
     #gallery {
       column-count: 2;
       margin: 0;
@@ -552,5 +561,20 @@ footer h4 {
         padding: 0 10px;
     }
 
-}
+    .tenet-desc {
+        width: 100%;
+    }
 
+    .about-tkd-container {
+        padding: 10px;
+    }
+
+    .kup, .stripe {
+        display: none;
+    }
+
+    .grading-table td {
+        width: 50%;
+    }
+
+}
