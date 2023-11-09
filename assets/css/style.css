@@ -551,7 +551,7 @@ footer h4 {
         font-size: 50px;
         padding: 0 10px;
     }
-
+/* -- about tkd --*/
     .tenet-desc {
         width: 100%;
     }
@@ -567,5 +567,10 @@ footer h4 {
     .grading-table td {
         width: 50%;
     }
+    
+/* -- footer --*/
 
+    .footer-display{
+        display: none;
+}
 }
