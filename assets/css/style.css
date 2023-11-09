@@ -539,7 +539,7 @@ footer h4 {
     }
     
     .contact-button {
-        visibility: hidden;
+        display: none;
     }
 
     #gallery {
