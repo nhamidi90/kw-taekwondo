@@ -345,34 +345,23 @@ td {
 
 /*------------------classes*/
 
-#classes {
-    width: 100%;
-  display: flex;
-}
-
-.class-container-outer {
-    width: 33%;
-    display: flex;
-    margin: 0 auto;
-}
-
-.class-container {
+.class-info {
     border: 1px solid;
-    width: 95%;
-    margin: 30px auto;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-.class-container p {
+.class-info p {
     padding: 5px 20px;
 }
 
-.class-container h2 {
+.class-info h2 {
     background-color:#c4dae3;
     padding: 15px;
 }
 
-.class-container .contact-button-dark {
+.class-info .contact-button-dark {
     margin-bottom: 20px;
 }
 
