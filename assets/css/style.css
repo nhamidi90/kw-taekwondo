@@ -437,11 +437,14 @@ td {
 
 /*------------------contact*/
 
+.contact-form-container {
+    margin: auto
+}
 #contact-form {
     background-color: #DFA01F;
     width:80%;
     color: #04223a;
-    margin: auto;
+    margin: 20px auto;
     line-height: 10px;
     padding: 30px 50px 50px 50px;
 
