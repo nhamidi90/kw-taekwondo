@@ -63,6 +63,10 @@ h3 {
     3px -3px 0 #000;
 }
 
+div.row, section.row {
+    margin: 0;
+}
+
 /*------------------header*/
 
 .top-bar {
