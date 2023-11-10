@@ -439,7 +439,7 @@ td {
     color: #04223a;
     margin: 20px auto;
     line-height: 10px;
-    padding: 30px 50px 50px 50px;
+    padding: 30px 50px 0 50px;
 
 }
 
@@ -452,6 +452,7 @@ td {
     font-size: 18px;
     color: #fff;
     background-color: #04223a;
+    margin: 20px 0;
 }
 
 .contact-form-button:hover {
