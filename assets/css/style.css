@@ -521,7 +521,7 @@ footer h4 {
 
 /*------------------media queries*/
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     
     .headings {
         font-size: 35px;
@@ -562,4 +562,10 @@ footer h4 {
     .footer-display{
         display: none;
 }
+}
+
+@media only screen and (max-width: 900px) {
+    .footer-display-middle {
+        display: none;
+    }
 }
