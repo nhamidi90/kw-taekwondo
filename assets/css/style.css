@@ -94,7 +94,7 @@ div.row, section.row {
     color: #f0faff;
     font-family: "Montserrat Alternates", sans-serif;
     padding: 25px;
-    ;
+
 }
 
 .logo-mobile {
@@ -126,7 +126,8 @@ div.row, section.row {
 }
 
 .nav-main {
-    position:sticky;
+    position: sticky;
+    position: -webkit-sticky;
     top: 0;
     z-index: 1;
     text-align: center;
