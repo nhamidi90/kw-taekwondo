@@ -69,6 +69,16 @@ div.row, section.row {
 
 /*------------------header*/
 
+.navbar {
+    background-color: #04223a;
+}
+
+.logo-mobile {
+    color: #f0faff; 
+    font-size: 20px;
+    width: 80%;
+}
+
 .top-bar {
     display: flex;
     align-items: center;
