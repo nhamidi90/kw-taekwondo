@@ -110,12 +110,11 @@ div.row, section.row {
     position: relative;
 }
 
-nav {
-    position: absolute;
-    top: 600px; 
+.nav-main {
+    position:sticky;
     text-align: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #4B4453;
     height: auto;
     width: 100%;
 }
@@ -521,7 +520,7 @@ footer h4 {
 
 /*------------------media queries*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {     
     
     .headings {
         font-size: 35px;
