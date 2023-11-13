@@ -535,7 +535,11 @@ footer h4 {
 
 /*------------------media queries*/
 
-@media screen and (max-width: 800px) {     
+@media screen and (max-width: 900px) {     
+    
+    .top-bar {
+        display: none;
+    }
     
     .nav-main {
         display: none;
@@ -583,6 +587,7 @@ footer h4 {
 }
 
 @media only screen and (max-width: 900px) {
+
     .footer-display-middle {
         display: none;
     }
@@ -594,5 +599,12 @@ footer h4 {
     .menu-item {
         font-size: 20px;
         padding: 10px;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    
+    .navbar {
+        display: none;
     }
 }
