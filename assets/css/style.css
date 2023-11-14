@@ -513,6 +513,24 @@ td {
 
 }
 
+/*------------------response*/
+
+.response {
+    text-align: center;
+    margin: 10% auto;
+    padding: 30px 20px;
+    background-color: #007C83;
+    border: 10px double;
+    border-radius: 20px;
+    color: #f0faff;
+    width: 300px;
+}
+
+.response p {
+    font-size: 20px;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
 /*------------------footer*/
 
 footer {
