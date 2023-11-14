@@ -21,7 +21,17 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 - As a student or parent of student, I want to be able to access any news such as upcoming competitions and events and see any changes
 - As a student or parent of student, I want to see pictures of training sessions and events
 
-# Credit
+# Features
+
+# Technologies Used
+
+# Wireframes
+
+# Testing
+
+# Deployment
+
+# Credits
 
 ## Content
 
@@ -74,3 +84,5 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 * [Google maps](https://www.google.com/maps) allowed me to embed a map on the contact page
 * The gallery page was done following the [Code Institue](https://codeinstitute.net/) tutorials
 * [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
+
+# Acknowledgements
