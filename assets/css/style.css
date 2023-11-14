@@ -584,6 +584,7 @@ footer h4 {
         padding: 0 10px;
     }
 /* -- about tkd --*/
+
     .tenet-desc {
         width: 100%;
     }
@@ -627,5 +628,12 @@ footer h4 {
     
     .navbar {
         display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    .response {
+        width: 90%;
     }
 }
