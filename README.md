@@ -20,3 +20,57 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 ## Frequent visitor goals:
 - As a student or parent of student, I want to be able to access any news such as upcoming competitions and events and see any changes
 - As a student or parent of student, I want to see pictures of training sessions and events
+
+# Credit
+
+## Content
+
+* [Level up taekwondo](https://leveluptaekwondo.com/2018/02/22/13-benefits-taekwondo-will-make-want-black-belt/) was used to write up reasons for doing taekwondo
+* My own taekwondo teacher [Tamsin Davis](https://www.taekwondo4all.com/) has also given me lots of information on what happens during lessons and the grading system through attending her classes
+* [United Tae kwon do](https://utkd.org/for-students/five-tenets) was used to take information on the tenets of taekwondo
+* I also used [Wikipedia](https://en.wikipedia.org/wiki/Taekwondo) to look up the origins of taekwondo
+* [Eurolinguiste](https://eurolinguiste.com/martial-arts-vocabulary-in-korean/) was used to check some spelling of korean words
+
+## Media
+
+* All media came from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/)
+* [Hero image](https://images.pexels.com/photos/4428290/pexels-photo-4428290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+* Homepage 
+ * [Instructor](https://pixabay.com/photos/woman-model-karate-taekwondo-sport-6916304/)
+ * [Above quote 1](https://images.pexels.com/photos/7045593/pexels-photo-7045593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+ * [Above quote 2](https://www.pexels.com/photo/a-group-of-people-standing-barefooted-while-wearing-taekwondo-uniform-7045673/)
+
+* Gallery
+ * [Image 1](https://www.pexels.com/photo/men-in-a-taekwondo-match-10496367/)
+ * [Image 2](https://www.pexels.com/photo/children-stretching-outdoors-10496375/)
+ * [Image 3](https://www.pexels.com/photo/taekwondo-athletes-shaking-hands-6253170/)
+ * [Image 4](https://www.pexels.com/photo/man-people-woman-girl-7045571/)
+ * [Image 5](https://www.pexels.com/photo/man-people-woman-relaxation-7045600/)
+ * [Image 6](https://www.pexels.com/photo/a-girl-standing-on-one-leg-while-looking-at-the-camera-7990084/)
+ * [Image 7](https://www.pexels.com/photo/a-woman-in-white-uniform-standing-barefooted-8779304/)
+ * [Images 8](https://www.pexels.com/photo/man-people-woman-girl-7045574/)
+ * [Image 9](https://www.pexels.com/photo/a-group-of-people-in-taekwondo-uniform-smiling-together-7045667/)
+ * [Image 10](https://www.pexels.com/photo/man-love-people-woman-7045608/)
+ * [Image 11](https://www.pexels.com/photo/a-woman-in-taekwondo-uniform-while-standing-near-the-brick-wall-7045657/)
+ * [Image 12](https://www.pexels.com/photo/fashion-man-love-people-7045736/)
+
+* News
+ * [News 1](https://www.pexels.com/photo/close-up-shot-of-a-person-holding-a-black-belt-6253308/)
+ * [News 2](https://www.pexels.com/photo/a-man-wearing-white-and-black-hachimaki-7045479/)
+ * [News 3](https://www.pexels.com/photo/boys-sparring-on-black-mat-7988768/)
+
+## Tools
+
+* [Color space](https://mycolor.space/) was used to pick a colour scheme
+
+## Code
+
+* The page title shadow effect was done using code from [Kinsta](https://kinsta.com/blog/css-text-outline/) 
+* [w3c schools](https://www.w3schools.com/) and [MDN web docs](https://developer.mozilla.org/en-US/) were both used to look up various HTML and CSS syntax
+* [Go make things](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/) Helped me make the navbar sticky using only CSS
+* The hover effects on classes.html were done using [Hover.css](https://ianlunn.github.io/Hover/#effects)
+* [Fontawesome](https://fontawesome.com/) gave me the icons used in the footer and contact page
+* [Google maps](https://www.google.com/maps) allowed me to embed a map on the contact page
+* The gallery page was done following the [Code Institue](https://codeinstitute.net/) tutorials
+* [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
