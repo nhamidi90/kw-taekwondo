@@ -25,6 +25,12 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 # Technologies Used
 
+* Visual Studio Code was the programme used to write and edit code
+* HTML was used to make the main content of the site
+* CSS was used to add styling
+* Balsamiq was used to make wireframes
+* GitHub hosts the website
+
 # Wireframes
 
 # Testing
@@ -59,7 +65,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
  * [Image 5](https://www.pexels.com/photo/man-people-woman-relaxation-7045600/)
  * [Image 6](https://www.pexels.com/photo/a-girl-standing-on-one-leg-while-looking-at-the-camera-7990084/)
  * [Image 7](https://www.pexels.com/photo/a-woman-in-white-uniform-standing-barefooted-8779304/)
- * [Images 8](https://www.pexels.com/photo/man-people-woman-girl-7045574/)
+ * [Image 8](https://www.pexels.com/photo/man-people-woman-girl-7045574/)
  * [Image 9](https://www.pexels.com/photo/a-group-of-people-in-taekwondo-uniform-smiling-together-7045667/)
  * [Image 10](https://www.pexels.com/photo/man-love-people-woman-7045608/)
  * [Image 11](https://www.pexels.com/photo/a-woman-in-taekwondo-uniform-while-standing-near-the-brick-wall-7045657/)
@@ -86,3 +92,6 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 * [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
 
 # Acknowledgements
+
+* Code Institute - For without their guidance I would not be able to make this website
+* Tamsin Davis - My taekwondo instructor who gave me lots of information on taekwondo
