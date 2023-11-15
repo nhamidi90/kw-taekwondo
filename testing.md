@@ -49,7 +49,7 @@ Response page
 *	I realised the problem was the navbar was inside the header tag and needed to be a child of the body.
 *	However when I tried to position the navbar above the hero image it wouldn’t work so I decided to discard that idea and just keep it sticky.
 
-```
+<!--
 .nav-main {
     position:sticky;
     top: 0;
@@ -60,7 +60,7 @@ Response page
     height: auto;
     width: 100%;
 }
-```
+-->
 
 3)	Creating mobile menu
 *	Because my navbar is not positioned at the top I had to create a separate navbar for mobile view.
@@ -68,9 +68,9 @@ Response page
 *	Again I found out it had to be outside of other elements
 *	I then used media queries to toggle the visibility of both navbars and the top bar
 
+<!--
 HTML
 
-```
  <nav class="navbar navbar-dark">
         <div class="container-fluid">
             <div class=logo-mobile>Koryo Warriors Taekwondo</div>
@@ -104,9 +104,9 @@ HTML
         </div>
     </nav>
 
-```
+
 CSS
-```
+
 
 @media screen and (max-width: 900px) {     
     
@@ -125,5 +125,6 @@ CSS
         display: none;
     }
 }
-```
+
+-->
 
