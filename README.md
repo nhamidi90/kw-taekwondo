@@ -113,6 +113,7 @@ News
 
 ### Code
 
+* [W3 Schools](https://www.w3schools.com/) and [MDN web docs](https://developer.mozilla.org/en-US/) were both used to look up and remind myself of various HTML and CSS syntax
 * The page title shadow effect was done using code from [Kinsta](https://kinsta.com/blog/css-text-outline/) 
 <!--
 text-shadow:
@@ -122,7 +123,6 @@ text-shadow:
     3px -3px 0 #000;
 -->
 
-* [w3c schools](https://www.w3schools.com/) and [MDN web docs](https://developer.mozilla.org/en-US/) were both used to look up and remind myself of various HTML and CSS syntax
 * [Go make things](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/) Helped me make the navbar sticky using only CSS
 
 <!--
@@ -284,6 +284,12 @@ top: 0;
 <!-- Button
 <a class="btn contact-button" href="contact.html" role="button">Book a free Session</a>
 -->
+* [W3C](https://www.w3.org/International/questions/qa-html-language-declarations#:~:text=When%20the%20page%20contains%20content,Usage%22.) was used to find out how to declare the korean language but I found the language code from [W3 Schools](https://www.w3schools.com/tags/ref_language_codes.asp)
+
+<!--
+<span lang="ko">(시작)</span>
+-->
+
 ## Acknowledgements
 
 * Code Institute - For without their guidance I would not be able to make this website
