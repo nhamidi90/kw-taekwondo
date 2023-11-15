@@ -68,6 +68,13 @@ All information on testing can be found on [testing.md](testing.md)
 
 ## Deployment
 
+## Future improvements
+* The news page will grow in size as more items are added so pagination could be introduced
+* There is potential for  the site to grow by adding more for current students such as a learning section which can include videos on patterns, theory etc.
+* Add fully functional contact form
+* As more pictures are added to the gallery it would be good to group those from the same event together
+
+
 ## Credits
 
 ### Content
