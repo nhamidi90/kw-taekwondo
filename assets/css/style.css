@@ -333,6 +333,7 @@ td {
     height: 50px;
     position: relative;
     border: 1px solid;
+    border-radius: 5px;
     margin: 5px 0;
 }
 .stripe {
