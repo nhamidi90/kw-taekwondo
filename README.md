@@ -5,23 +5,28 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 ## User stories
 
 ### First time visitor goals:
-- I want to know a bit about taekwondo and why I should pursue it
-- I want to know about the instructor
-- I want to know about the taekwondo lessons and what to expect, where and when they are held and also the prices for classes
-- I want to be able to contact the instructor for more information should I have any questions and also to request to join classes
-- I want the site to be easy to navigate through
-- I want the site to be appealing enough to entice me to start taekwondo classes through testimonials and images
+* I want to know a bit about taekwondo and why I should pursue it
+* I want to know about the instructor
+* I want to know about the taekwondo lessons and what to expect, where and when they are held and also the prices for classes
+* I want to be able to contact the instructor for more information should I have any questions and also to request to join classes
+* I want the site to be easy to navigate through
+* I want the site to be appealing enough to entice me to start taekwondo classes through testimonials and images
+* As a parent I want to find out whether there are classes suitable for my child
 
 ### Returning visitor goals:
-- I want to easily find the information on classes to see if they fit into my schedule and budget
-- After carefully considering joining classes, I want to find a way to contact the instructor to get a free trial session
-- I want to check their social media and find out more about the club
+* I want to easily find the information on classes to see if they fit into my schedule and budget
+* After carefully considering joining classes, I want to find a way to contact the instructor to get a free trial session
+* I want to check their social media and find out more about the club
+* As a parent I want to show the pictures to my child to see if they are interested in joining
 
 ### Frequent visitor goals:
-- As a student or parent of student, I want to be able to access any news such as upcoming competitions and events and see any changes
-- As a student or parent of student, I want to see pictures of training sessions and events
+* As a student or parent of student, I want to be able to access any news such as upcoming competitions and events and see if there are any changes
+* As a student or parent of student, I want to see pictures of training sessions and events
 
 ## Features
+
+### Navbar
+
 
 ## Technologies Used
 
