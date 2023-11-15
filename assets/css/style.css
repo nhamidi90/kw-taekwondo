@@ -615,10 +615,6 @@ footer h4 {
 
 @media only screen and (max-width: 900px) {
 
-    .footer-display-middle {
-        display: none;
-    }
-
     .page-heading {
         line-height: 75px;
     }
