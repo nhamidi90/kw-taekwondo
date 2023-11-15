@@ -1,5 +1,42 @@
 # Testing.md
 
+## Compatibility and responsiveness
+
+## Validator testing
+
+### HTML
+
+Home page
+
+About Taekwondo page
+
+Classes page
+
+Gallery page
+
+News page
+
+Contact Us page
+
+Response page
+
+### CSS
+
+## Lighthouse report
+
+Home page
+
+About Taekwondo page
+
+Classes page
+
+Gallery page
+
+News page
+
+Contact Us page
+
+Response page
 
 ## Bugs
 
@@ -89,3 +126,4 @@ CSS
     }
 }
 ```
+
