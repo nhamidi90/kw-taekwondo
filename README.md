@@ -33,6 +33,30 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 # Wireframes
 
+## Desktop screen
+* [Home](documentation/large-home.png)
+* [About taekwondo](documentation/large-abouttkd.png)
+* [Classes](documentation/large-classes.png)
+* [Gallery](documentation/large-gallery.png)
+* [News](documentation/large-news.png)
+* [Contact Us](documentation/large-contact.png)
+
+## Tablet screen (small and large)
+* [Home](documentation/tablet-home.png)
+* [About taekwondo](documentation/tablet-abouttkd.png)
+* [Classes](documentation/tablet-classes.png)
+* [Gallery](documentation/tablet-gallery.png)
+* [News](documentation/tablet-news.png)
+* [Contact Us](documentation/tablet-contact.png)
+
+## Desktop screen
+* [Home](documentation/mobile-home.png)
+* [About taekwondo](documentation/mobile-abouttkd.png)
+* [Classes](documentation/mobile-classes.png)
+* [Gallery](documentation/mobile-gallery.png)
+* [News](documentation/mobile-news.png)
+* [Contact Us](documentation/mobile-contact.png)
+
 # Testing
 
 # Deployment
