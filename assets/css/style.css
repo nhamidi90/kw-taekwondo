@@ -315,9 +315,9 @@ td {
 }
 
 .tenet-title {
+    font-size: 25px;
     font-weight: bold;
     float: left;
-    padding-top: 20px;
 }
 
 .tenet-desc {
