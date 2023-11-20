@@ -38,6 +38,12 @@ h3 {
     text-align: center;
 }
 
+.dates-heading {
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: #007C83;
+    text-align: center;
+}
 
 .section-background {
     background-color: #A1ACBD;
@@ -553,9 +559,11 @@ footer {
     color: #fff;
 }
 
-footer h4 {
+.footer-logo  {
     font-family: "Montserrat Alternates", sans-serif;
-    color: #f0faff
+    font-weight: bold;
+    color: #f0faff;
+    margin: 0;
 }
 
 /*------------------media queries*/
