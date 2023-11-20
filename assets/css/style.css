@@ -108,6 +108,11 @@ div.row, section.row {
     font-family: "Montserrat Alternates", sans-serif;
 }
 
+.logo a, .logo-mobile a {
+    text-decoration: none;
+    color: #f0faff;
+}
+
 .contact-button {
     border-radius: 20px;
     border: 3px solid;
