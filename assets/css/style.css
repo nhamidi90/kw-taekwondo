@@ -139,6 +139,13 @@ section.row {
     position: relative;
 }
 
+.nav-container {
+    height: 100vh;
+    width: 100%;
+    /* border: 1px solid; */
+    position: absolute;
+}
+
 .nav-main {
     position: sticky;
     position: -webkit-sticky;
