@@ -633,6 +633,10 @@ footer {
     .tenet-desc {
         width: 100%;
     }
+    
+    .tenets-container {
+        margin: 0;
+    }
 
     .about-tkd-container {
         padding: 20px;
