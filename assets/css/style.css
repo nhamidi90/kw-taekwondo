@@ -531,6 +531,10 @@ td {
     color: #04223a;
 }
 
+.social-icons-dark :hover {
+    color:#DFA01F;
+}
+
 #map {
     clear: both;
     text-align: center;
@@ -576,6 +580,10 @@ footer {
 
 .social-icons a {
     color: #fff;
+}
+
+.social-icons :hover {
+    color:#DFA01F;
 }
 
 .footer-logo {
