@@ -349,7 +349,7 @@ td {
     padding: 5px;
 }
 
-.kup {
+.belt {
     width: 100%;
     height: 50px;
     position: relative;
@@ -656,7 +656,7 @@ footer {
         padding: 20px;
     }
 
-    .kup,
+    .belt,
     .stripe {
         display: none;
     }
