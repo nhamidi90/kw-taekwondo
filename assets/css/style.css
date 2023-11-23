@@ -8,6 +8,12 @@
 
 /* ----------------styling */
 
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .headings {
     font-family: "open sans", sans-serif;
     text-align: center;
@@ -382,6 +388,10 @@ td {
 }
 
 /*------------------classes*/
+
+.class-container {
+    max-width: 90rem;
+}
 
 .class-info {
     border: 1px solid;
