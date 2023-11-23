@@ -46,12 +46,13 @@ Response page
 
 2)	Creating a sticky navbar
 *	I wanted to have the navbar going across the hero image sitting a few cms from the bottom. When adding code to make it sticky, it would either move from its original intended position or only be sticky and visible for as long as you could see the hero image.
-*	I realised the problem was the navbar was inside the header tag and needed to be a child of the body.
-*	However when I tried to position the navbar above the hero image it wouldn’t work so I decided to discard that idea and just keep it sticky.
+*	I realised the problem occured when the navbar is placed inside the header. I am aware that the navbar is conventionally placed inside the header but for this purpose I had to bring it underneath the header.
+*	When I tried to position the navbar above the hero image it wouldn’t work so I decided to discard that idea and just keep it sticky.
 
 <!--
 .nav-main {
-    position:sticky;
+    position: sticky;
+    position: -webkit-sticky;
     top: 0;
     z-index: 1;
     text-align: center;
@@ -72,37 +73,45 @@ Response page
 HTML
 
  <nav class="navbar navbar-dark">
-        <div class="container-fluid">
-            <div class=logo-mobile>Koryo Warriors Taekwondo</div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Home</a></li>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="abouttkd.html">About Taekwondo</a></li>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="classes.html">Classes</a></li>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="gallery.html">Gallery</a></li>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="news.html">News</a></li>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="contact.html">Contact Us</a></li>
-                    </li>
-
+            <div class="container-fluid">
+                <div class=logo-mobile><a href="index.html" aria-label="Go to the home page">Koryo Warriors
+                        Taekwondo</a>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html"
+                                aria-label="Go to the home page">Home</a></li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="abouttkd.html" aria-label="Learn about taekwondo">About
+                                Taekwondo</a></li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="classes.html"
+                                aria-label="Find out about classes">Classes</a></li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="gallery.html"
+                                aria-label="Go to the gallery to see pictures of us training">Gallery</a></li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="news.html"
+                                aria-label="Find out the latest news happening in our club">News</a></li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="contact.html"
+                                aria-label="Click here to Contact us">Contact
+                                Us</a></li>
+                        </li>
+                </div>
             </div>
-        </div>
-    </nav>
+        </nav>
 
 
 CSS
