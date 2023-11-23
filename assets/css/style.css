@@ -143,13 +143,6 @@ section.row {
     position: relative;
 }
 
-.nav-container {
-    height: 100vh;
-    width: 100%;
-    /* border: 1px solid; */
-    position: absolute;
-}
-
 .nav-main {
     position: sticky;
     position: -webkit-sticky;
@@ -551,7 +544,7 @@ td {
 
 .response {
     text-align: center;
-    margin: 20% auto;
+    margin: 20vh auto;
     padding: 30px 20px;
     background-color: #007C83;
     border: 10px double;
