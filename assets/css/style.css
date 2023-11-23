@@ -358,7 +358,7 @@ td {
     padding: 5px;
 }
 
-.belt {
+.kup {
     width: 100%;
     height: 50px;
     position: relative;
@@ -629,7 +629,7 @@ footer {
         padding: 20px;
     }
 
-    .kup {
+    .grade {
         text-align: left;
     }
 }
@@ -685,7 +685,7 @@ footer {
         padding: 20px;
     }
 
-    .belt,
+    .kup,
     .stripe {
         display: none;
     }
