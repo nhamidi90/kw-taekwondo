@@ -600,8 +600,13 @@ footer {
 /*------------------media queries*/
 
 @media screen and (max-width: 600px) {
+
     .about-me {
         padding: 20px;
+    }
+
+    .kup {
+        text-align: left;
     }
 }
 
