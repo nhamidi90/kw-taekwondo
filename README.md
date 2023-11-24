@@ -5,23 +5,23 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 ## User stories
 
 ### First time visitor goals:
-* I want to know a bit about taekwondo and why I should pursue it
-* I want to know about the instructor
-* I want to know about the taekwondo lessons and what to expect, where and when they are held and also the prices for classes
-* I want to be able to contact the instructor for more information should I have any questions and also to request to join classes
-* I want the site to be easy to navigate through
-* I want the site to be appealing enough to entice me to start taekwondo classes through testimonials and images
-* As a parent I want to find out whether there are classes suitable for my child
+* As a first time user I want to know a bit about taekwondo so I can decide whether I should pursue it
+* As a first time user I want to know about the instructor so I can see if they will be good for me
+* As a first time user I want to know about the taekwondo lessons and what to expect, where and when they are held and also the prices for classes so I can see whether they fit into my schedule and how far it is from me
+* As a first time user I want to be able to contact the instructor for more information should I have any questions and also to request to join classes
+* As a first time user I want the site to be easy to navigate through so I can find what I need
+* As a first time user I want the site to be appealing enough to entice me to start taekwondo classes through testimonials and images
+* As a parent I want to find out whether there are classes suitable for my child so I can enrol them
 
 ### Returning visitor goals:
-* I want to easily find the information on classes to see if they fit into my schedule and budget
-* After carefully considering joining classes, I want to find a way to contact the instructor to get a free trial session
-* I want to check their social media and find out more about the club
-* As a parent I want to show the pictures to my child to see if they are interested in joining
+* As a returning visitor I want to easily find the information on classes to see if they fit into my schedule and budget
+* As a returning visitor after carefully considering joining classes, I want to have a way to contact the instructor to get a free trial session
+* As a returning visitor I want to check their social media so I can find out more about the club
+* As a parent I want to show the pictures to my child so they can decide for themselves whether to join
 
 ### Frequent visitor goals:
-* As a student or parent of student, I want to be able to access any news such as upcoming competitions and events and see if there are any changes
-* As a student or parent of student, I want to see pictures of training sessions and events
+* As a student or parent of student, I want to be able to access any news such as upcoming competitions and events so I can add them to my calendar and to see how past events went
+* As a student or parent of student, I want to see pictures of training sessions and events so I can save them and remember them
 
 ## Features
 
@@ -30,11 +30,12 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ## Technologies Used
 
-* Visual Studio Code was the programme used to write and edit code
 * HTML was used to make the main content of the site
 * CSS was used to add styling
-* Balsamiq was used to make wireframes
-* GitHub hosts the website
+* [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
+* [Visual Studio Code](https://code.visualstudio.com/) was the programme used to write and edit code
+* [Balsamiq](https://balsamiq.com/) was used to make wireframes
+* [GitHub pages](https://pages.github.com/) hosts the website. The live link is [here](https://nhamidi90.github.io/kw-taekwondo/)
 
 ## Wireframes
 
@@ -54,7 +55,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 * [News](documentation/tablet-news.png)
 * [Contact Us](documentation/tablet-contact.png)
 
-### Desktop screen
+### Mobile screen
 * [Home](documentation/mobile-home.png)
 * [About taekwondo](documentation/mobile-abouttkd.png)
 * [Classes](documentation/mobile-classes.png)
@@ -64,7 +65,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ## Testing
 
-All information on testing can be found on [testing.md](testing.md)
+All information on testing can be found on [testing.md](TESTING.md)
 
 ## Deployment
 
@@ -117,6 +118,7 @@ News
 ### Tools
 
 * [Color space](https://mycolor.space/) was used to pick a colour scheme
+* [Tinypng](https://tinypng.com/) was used to compress images
 
 ### Code
 
@@ -215,82 +217,93 @@ top: 0;
 }
 -->
 
-* [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
+* [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form and buttons
 
-<!-- Grid system. An exmaple used on the contact page
-<section class="row">
-    <div class="col-12 col-sm-6 contact-form-container"></div>
-    <div class="contact-info-container col-12 col-sm-6"></div>
-</section>
--->
+<!--
 
-<!-- Navbar mobile view
-<nav class="navbar navbar-dark">
+Mobile Navbar
+
+    <nav class="navbar navbar-dark">
         <div class="container-fluid">
-            <div class=logo-mobile>Koryo Warriors Taekwondo</div>
+            <div class=logo-mobile><a href="index.html" aria-label="Go to the home page">Koryo Warriors
+                    Taekwondo</a>
+            </div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Home</a></li>
+                        <a class="nav-link" aria-current="page" href="index.html"
+                            aria-label="Go to the home page">Home</a></li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="abouttkd.html">About Taekwondo</a></li>
+                        <a class="nav-link active" href="abouttkd.html"
+                            aria-label="Learn about taekwondo to see if it interests you">About
+                            Taekwondo</a></li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="classes.html">Classes</a></li>
+                        <a class="nav-link" aria-current="page" href="classes.html"
+                            aria-label="Find out about classes to see if it's right for you">Classes</a></li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="gallery.html">Gallery</a></li>
+                        <a class="nav-link" aria-current="page" href="gallery.html"
+                            aria-label="Go to the gallery to see pictures of us training">Gallery</a></li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="news.html">News</a></li>
+                        <a class="nav-link" aria-current="page" href="news.html"
+                            aria-label="Find out the latest news happening in our club">News</a></li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="contact.html">Contact Us</a></li>
+                        <a class="nav-link" aria-current="page" href="contact.html"
+                            aria-label="Click here to contact us for more information">Contact
+                            Us</a></li>
                     </li>
-
             </div>
         </div>
     </nav>
--->
 
-<!-- Contact form
-<div id="contact-form">
-                <form action="response.html" method="post">
-                    <div class="mb-3">
-                        <label for="name" class="form-label">Name:</label>
-                        <input type="text" id="name" class="form-control" aria-describedby="name" required>
-                    </div>
+Button
 
-                    <div class="mb-3">
-                        <label for="name" class="form-label">Email address:</label>
-                        <input type="email" id="email" class="form-control" aria-describedby="email" required>
-                    </div>
+    <a class="btn contact-button" href="contact.html" role="button" aria-label="Book a free session">Book a free
+                Session</a>
 
-                    <div class="mb-3">
-                        <label for="phone" class="form-label">Phone number:</label>
-                        <input type="text" id="email" class="form-control" aria-describedby="phone">
-                    </div>
+Contact form
 
-                    <div class="mb-3">
-                        <label for="floatingTextarea" class="form-label">Message:</label>
-                        <textarea class="form-control" placeholder="Leave a comment here" id="message"></textarea>
-                    </div>
+    <div class="col-12 col-sm-6 contact-form-container">
+        <div id="contact-form">
+            <form action="response.html" method="GET">
+                <div class="mb-3">
+                     <label for="name" class="form-label">Name:</label>
+                    <input type="text" id="name" class="form-control" aria-describedby="name" required>
+                </div>
 
-                    <input type="submit" value="Send!" class="contact-form-button">
-                    </p>
-                </form>
-            </div>
--->
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email address:</label>
+                    <input type="email" id="email" class="form-control" aria-describedby="email" required>
+                </div>
 
-<!-- Button
-<a class="btn contact-button" href="contact.html" role="button">Book a free Session</a>
--->
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Phone number:</label>
+                    <input type="text" id="phone" class="form-control" aria-describedby="phone">
+                </div>
+
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message:</label>
+                    <textarea class="form-control" placeholder="Leave a comment here" id="message"
+                        aria-label="Write a message"></textarea>
+                </div>
+
+                 <input type="submit" value="Send!" class="contact-form-button" aria-label="Send">
+                     
+            </form>
+        </div>
+    </div>
+
+    -->
+
 * [W3C](https://www.w3.org/International/questions/qa-html-language-declarations#:~:text=When%20the%20page%20contains%20content,Usage%22.) was used to find out how to declare the korean language but I found the language code from [W3 Schools](https://www.w3schools.com/tags/ref_language_codes.asp)
 
 <!--
