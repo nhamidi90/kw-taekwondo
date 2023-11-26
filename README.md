@@ -69,12 +69,30 @@ All information on testing can be found on [testing.md](TESTING.md)
 
 ## Deployment
 
+### Deployment to GitHub Pages
+
+The site was deployed to GitHub pages. To deploy this site: 
+  * In the [GitHub repository](https://github.com/nhamidi90/kw-taekwondo), navigate to the Settings tab
+  * Select the **pages** link on the left hand side under *Code and automation*
+  * Under *Source*, ensure **Deploy from branch** is selected
+  * Under *Branch*, select **main** then **save**
+  * The page will automatically refresh and provide a link to your site indicating successful deployment.
+
+The live link can be found [here](https://nhamidi90.github.io/kw-taekwondo)
+
+### Local Deployment
+
+* To make a local copy of this project, you can clone the repository by typing the following command into your IDE terminal:
+
+ `git clone https://github.com/nhamidi90/kw-taekwondo.git`
+
+- Alternatively, to open the workspace in Gitpod, you can [click here](https://gitpod.io/#https://github.com/nhamidi90/kw-taekwondo)
+
 ## Future improvements
 * The news page will grow in size as more items are added so pagination could be introduced
 * There is potential for  the site to grow by adding more for current students such as a learning section which can include videos on patterns, theory etc.
 * Add fully functional contact form
 * As more pictures are added to the gallery it would be good to group those from the same event together
-
 
 ## Credits
 
@@ -118,7 +136,7 @@ News
 ### Tools
 
 * [Color space](https://mycolor.space/) was used to pick a colour scheme
-* [Tinypng](https://tinypng.com/) was used to compress images
+* [Tinypng](https://tinypng.com/) and [iLoveIMG](https://www.iloveimg.com/compress-image) were used to compress images
 
 ### Code
 
