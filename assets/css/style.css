@@ -377,13 +377,16 @@ td {
 
 /*------------------gallery*/
 
+.gallery-container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 #gallery {
     clear: both;
     line-height: 0;
     column-count: 3;
     column-gap: 0;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 #gallery img {
