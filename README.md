@@ -65,7 +65,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ## Testing
 
-All information on testing can be found on [testing.md](TESTING.md)
+All information on testing can be found on [TESTING.md](TESTING.md)
 
 ## Deployment
 
