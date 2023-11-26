@@ -667,6 +667,9 @@ footer {
 
     #gallery {
         column-count: 2;
+    }
+
+    .gallery-container {
         margin: 0;
     }
 
