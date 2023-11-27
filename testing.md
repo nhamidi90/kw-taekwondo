@@ -8,17 +8,35 @@
 
 Home page
 
+* 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+
 About Taekwondo page
+
+* 19 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 
 Classes page
 
+* 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+
 Gallery page
+
+* 11 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* 1 warning was given stating 'section lacks heading'
 
 News page
 
+* 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* 3 warning was given stating 'section lacks heading'
+
 Contact Us page
 
+* 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* 1 warning was given stating 'section lacks heading'
+
 Response page
+
+* 10 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* 1 warning was given stating 'section lacks heading'
 
 ### CSS
 
