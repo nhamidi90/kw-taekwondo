@@ -50,6 +50,10 @@ Links:
 
 ### Footer
 
+* The footer is responsive. In mobile view, you will only see the social icons. 
+* On larger screens you will have information on the company including the address, web address, phone number and links to social media
+* The links to social media have an animated hover effect
+
 ![Screenshot of the compact footer](documentation/screenshot-footer-small.png "Compact footer")
 
 ![Screenshot of the full footer](documentation/screenshot-footer-full.png "Full footer")
