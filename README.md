@@ -27,6 +27,45 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ### Navbar
 
+![Screenshot of the mobile navbar closed](documentation/screenshot-mobile-navbar-closed.png "Mobile navbar")
+
+![Screenshot of the mobile navbar open](documentation/screenshot-mobile-navbar-open.png "mobile navbar open")
+
+![Screenshot of the main navbar](documentation/screenshot-main-navbar.png "Main navbar")
+
+### Footer
+
+![Screenshot of the compact footer](documentation/screenshot-footer-small.png "Compact footer")
+
+![Screenshot of the full footer](documentation/screenshot-footer-full.png "Full footer")
+
+### Home page
+
+![Screenshot of index.html](documentation/screencapture-index.png "Home page")
+
+### About taekwondo
+
+![Screenshot of abouttkd.html](documentation/screencapture-abouttkd.png "About Taekwondo")
+
+### Classes
+
+![Screenshot of classes.html](documentation/screencapture-classes.png "Classes and Pricing")
+
+### Gallery
+
+![Screenshot of gallery.html](documentation/screencapture-gallery.png "Gallery")
+
+### News
+
+![Screenshot of news.html](documentation/screencapture-news.png "News")
+
+### Contact Us
+
+![Screenshot of contact.html](documentation/screencapture-contact.png "Contact Us")
+
+### Response Page
+
+![Screenshot of response.html](documentation/screencapture-response.png "Response Page")
 
 ## Technologies Used
 
@@ -58,7 +97,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 ### Mobile screen
 * [Home](documentation/mobile-home.png)
 * [About taekwondo](documentation/mobile-abouttkd.png)
-* [Classes](documentation/mobile-classes.png)
+* [Classes](documentation/mobile-classes.png
 * [Gallery](documentation/mobile-gallery.png)
 * [News](documentation/mobile-news.png)
 * [Contact Us](documentation/mobile-contact.png)
