@@ -30,7 +30,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 * There are two navbars: one for smaller screens and one for large screens
 * The mobile navbar is located at the top of the screen. The logo is on the left an the toggle button on the right so you can open it up. If the viewer is using a desktop or large tablet, this will be hidden.
 * The navbar for larger screens is located underneath the hero image. It spreads across the length of the page and is responsive; should need be, the links will overflow to the second line. As the user scrolls down, the navbar will move and stick to the top of the screen. The navbar is easy to navigate and links have an animated effect upon hover. If the user is using a mobile or small tablet, this will be hidden.
-* In addition, there will be a bar above the hero image displaying the logo on the left and a 'book a free session' button on the right leading too the contact page. The button has an animated effect upon hover.
+* In addition, there will be a bar above the hero image displaying the logo on the left and a 'book a free session' button on the right leading too the contact page. The button has an animated effect upon hover. This will be hidden on smaller screens
 * All pages will include the navbar
 
 Links: 
@@ -48,6 +48,13 @@ Links:
 ![Screenshot of the top bar](documentation/screenshot-top-bar.png "Top bar")
 
 ![Screenshot of the main navbar](documentation/screenshot-main-navbar.png "Main navbar")
+
+## Hero image
+
+* The hero image is located at the top of the page
+* On all pages apart from the home page it includes the page title
+
+![Screenshot of the hero image](documentation/screenshot-hero.png "Hero image")
 
 ### Footer
 
