@@ -60,13 +60,30 @@ Links:
 
 ### Home page
 
+*	Includes an introduction the club and reasons why you should study taekwondo. There is a button at the end of the section leading to the contact page with a hover effect
+*	Includes a couple of quotes from students with some pictures
+*	Includes a picture and introduction to the instructor. There is an external link to the British taekwondo Council website for users to find out more which opens in a new tab
+* The page is responsive to screen size
+
 ![Screenshot of index.html](documentation/screencapture-index.png "Home page")
 
 ### About taekwondo
 
+*	Includes a brief introduction of where taekwondo started. There is also an external link to the federation this club will follow (International Taekwondo Federation) which opens in a new tab
+*	Includes the five tenets of taekwondo
+*	Includes information on the grading system with images of belts
+*	Has a table including some Korean phrases used in taekwondo
+*	The page is responsive. As the screen becomes smaller, the images of the belts will disappear
+
+
 ![Screenshot of abouttkd.html](documentation/screencapture-abouttkd.png "About Taekwondo")
 
 ### Classes
+
+*	Contains information on three types of classes arranged in columns: children's, ladies and mixed
+*	Each section has a button inviting visitors to book a class by leading them to the contact page. The buttons have a hover effect
+*	The page will respond to screen size change
+*	Upon hover, or click if on mobile, there is a sweeping motion from top to bottom
 
 ![Screenshot of classes.html](documentation/screencapture-classes.png "Classes and Pricing")
 
