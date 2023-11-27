@@ -1,4 +1,4 @@
-# Testing.md
+# TESTING
 
 ## Compatibility and responsiveness
 
