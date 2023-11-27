@@ -27,9 +27,24 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ### Navbar
 
+* There are two navbars: one for smaller screens and one for large screens
+* The mobile navbar is located at the top of the screen. The logo is on the left an the toggle button on the right so you can open it up. If the viewer is using a desktop or large tablet, this will be hidden.
+* The navbar for larger screens is located underneath the hero image. It spreads across the length of the page and is responsive; should need be, the links will overflow to the second line. As the user scrolls down, the navbar will move and stick to the top of the screen. The navbar is easy to navigate and links have an animated effect upon hover. If the user is using a mobile or small tablet, this will be hidden.
+* In addition, there will be a bar above the hero image displaying the logo on the left and a 'book a free session' button on the right leading too the contact page. The button has an animated effect upon hover.
+
+Links: 
+* Home – leads to the home page where visitors can learn about the club and instructor
+* About taekwondo – leads to a page which gives the reader an introduction to the basics of taekwondo and some theory
+* Classes and pricing – leads to the classes page where visitors can find out what classes exists, when and where classes are held as well as prices
+* Gallery – leads to the gallery page where visitors can see pictures of classes/events
+* News – leads to the news page where information for students is posted such as competition details, results of grading etc. 
+* Contact – leads to the contact page where visitors can fill out a form to contact the instructor, find out the instructor’s contact details and see the map of where classes are held
+
 ![Screenshot of the mobile navbar closed](documentation/screenshot-mobile-navbar-closed.png "Mobile navbar")
 
 ![Screenshot of the mobile navbar open](documentation/screenshot-mobile-navbar-open.png "mobile navbar open")
+
+![Screenshot of the top bar](documentation/screenshot-top-bar.png "Top bar")
 
 ![Screenshot of the main navbar](documentation/screenshot-main-navbar.png "Main navbar")
 
