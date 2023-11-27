@@ -580,6 +580,10 @@ div.news-section {
 
 }
 
+iframe {
+    width: 90%;
+}
+
 /*------------------response*/
 
 .response {
