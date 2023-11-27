@@ -21,6 +21,50 @@ Opera:
 
 ![Screenshot of the website on different devices](documentation/screenshot-responsive-viewer.png)
 
+## Manual testing
+
+|feature	|action	|expected result|	tested	|passed	|comments|
+|-----------|-------|---------------|-----------|-------|--------|
+|**Main Navbar**					|
+|Button in top bar |Click on the "Book a free session" button| The user is redirected to the contact page | Yes | Yes | - |
+|Home	|Click on the "Home" link	|The user is redirected to the main page|	Yes|	Yes	|-|
+|About taekwondo	|Click on the "About Taekwondo" link|	The user is redirected to the about taekwondo page|	Yes	|Yes|	-|
+|Classes and pricing|Click on the "Classes" link|	The user is redirected to the classes and pricing page|	Yes	|Yes|	-|
+|Gallery	|Click on the "Gallery" link|	The user is redirected to the gallery page|	Yes	|Yes|	-|
+|News	|Click on the "News" link|	The user is redirected to the news page|	Yes	|Yes|	-|
+|Contact	|Click on the "Contact Us" link|	The user is redirected to the contact page|	Yes	|Yes|	-|
+|**Mobile Navbar**					|
+|Home	|Click on the "Home" link	|The user is redirected to the main page|	Yes|	Yes	|-|
+|About taekwondo	|Click on the "About Taekwondo" link|	The user is redirected to the about taekwondo page|	Yes	|Yes|	-|
+|Classes and pricing|Click on the "Classes" link|	The user is redirected to the classes and pricing page|	Yes	|Yes|	-|
+|Gallery	|Click on the "Gallery" link|	The user is redirected to the gallery page|	Yes	|Yes|	-|
+|News	|Click on the "News" link|	The user is redirected to the news page|	Yes	|Yes|	-|
+|Contact	|Click on the "Contact Us" link|	The user is redirected to the contact page|	Yes	|Yes|	-|
+|**Footer**					|
+|Facebook icon in the footer|	Click on the Facebook icon|The user is redirected to the Facebook page|	Yes|	Yes	|-|
+|Instagram icon in the footer|	Click on the Instagram icon|The user is redirected to the Instagram page|	Yes|	Yes	|-|
+|**Home page**			|		
+|"Find out more" button in about us section	|Click on the "Find out more" button|	The user is redirected to the classes page	|Yes|	Yes	|-|
+|Link to British Taekwondo Council website	|Click on the "British Taekwondo Council" link|	The user is redirected to the British Taekwondo Council website	|Yes|	Yes	|-|
+|**About Taekwondo  page**			|		
+|Link to  UK ITF website |Click on the "UK International Taekwondo Federation" link|The user is redirected to the UKITF page|	Yes|	Yes	|-|
+|**Classes and pricing page** |
+| Children's classes "Book a trial class" button | Click on the "Book a trial class" button | The user is redirected to the contact page | Yes | Yes | - |
+| Children's classes hover effect | Hover over the children's class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
+| Ladies classes "Book a trial class" button | Click on the "Book a trial class" button | The user is redirected to the contact page | Yes | Yes | - |
+| Ladies classes hover effect | Hover over the ladies class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
+| Mixed classes "Book a trial class" button | Click on the "Book a trial class" button | The user is redirected to the contact page | Yes | Yes | - |
+| Mixed classes hover effect | Hover over the mixed class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
+|**Contact page**|				
+|Name input	|Enter your name	|The name is entered|	Yes	|Yes|	If user doesn't enter a name, an error message appears|
+|Email input|	Enter the email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
+|Phone input|Enter your phone number |The number is entered | Yes |Yes|-|
+|Message input| Enter a message| A message is entered| Yes | Yes | - |
+|"Send!" button|Click on the "Send!" button	|The user is redirected to the response page|	Yes	|Yes|	-|
+|Map|Drag the map and click on the zoom buttons|The map is moved around and the user can zoom in and out|	Yes	|Yes|	-|
+|**Response page**					|
+|Response message	|The user will be automatically redirected to the home page after 10 seconds	|The user is redirected to the home page|	Yes	|Yes|	-|
+
 ## Validator testing
 
 ### HTML
