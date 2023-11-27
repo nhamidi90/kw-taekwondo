@@ -2,6 +2,8 @@
 
 Koryeo Warriors Taekwondo allows visitors to find out about their local taekwondo club. Visitors can find out about taekwondo, learn about class times and prices, gain insight into what the classes entail and also look at some pictures of students all in the hope of getting a feel of what to expect. Visitors can then contact the instructor to arrange a trial class or find out more. 
 
+![Screenshot of the website on different devices](documentation/screenshot-amiresponsive.png)
+
 ## User stories
 
 ### First time visitor goals:
@@ -41,20 +43,20 @@ Links:
 * News – leads to the news page where information for students is posted such as competition details, results of grading etc. 
 * Contact – leads to the contact page where visitors can fill out a form to contact the instructor, find out the instructor’s contact details and see the map of where classes are held
 
-![Screenshot of the mobile navbar closed](documentation/screenshot-mobile-navbar-closed.png "Mobile navbar")
+![Screenshot of the mobile navbar closed](documentation/screenshot-mobile-navbar-closed.png)
 
-![Screenshot of the mobile navbar open](documentation/screenshot-mobile-navbar-open.png "mobile navbar open")
+![Screenshot of the mobile navbar open](documentation/screenshot-mobile-navbar-open.png)
 
-![Screenshot of the top bar](documentation/screenshot-top-bar.png "Top bar")
+![Screenshot of the top bar](documentation/screenshot-top-bar.png)
 
-![Screenshot of the main navbar](documentation/screenshot-main-navbar.png "Main navbar")
+![Screenshot of the main navbar](documentation/screenshot-main-navbar.png)
 
 ## Hero image
 
 * The hero image is located at the top of the page
 * On all pages apart from the home page it includes the page title
 
-![Screenshot of the hero image](documentation/screenshot-hero.png "Hero image")
+![Screenshot of the hero image](documentation/screenshot-hero.png)
 
 ### Footer
 
@@ -63,9 +65,9 @@ Links:
 * The links to social media have an animated hover effect
 * All pages will include the footer
 
-![Screenshot of the compact footer](documentation/screenshot-footer-small.png "Compact footer")
+![Screenshot of the compact footer](documentation/screenshot-footer-small.png)
 
-![Screenshot of the full footer](documentation/screenshot-footer-full.png "Full footer")
+![Screenshot of the full footer](documentation/screenshot-footer-full.png)
 
 ### Home page
 
@@ -74,7 +76,7 @@ Links:
 *	Includes a picture and introduction to the instructor. There is an external link to the British taekwondo Council website for users to find out more which opens in a new tab
 * The page is responsive to screen size
 
-![Screenshot of index.html](documentation/screencapture-index.png "Home page")
+![Screenshot of index.html](documentation/screencapture-index.png)
 
 ### About taekwondo
 
@@ -85,7 +87,7 @@ Links:
 *	The page is responsive. As the screen becomes smaller, the images of the belts will disappear
 
 
-![Screenshot of abouttkd.html](documentation/screencapture-abouttkd.png "About Taekwondo")
+![Screenshot of abouttkd.html](documentation/screencapture-abouttkd.png)
 
 ### Classes
 
@@ -94,7 +96,7 @@ Links:
 *	The page will respond to screen size change
 *	Upon hover, or click if on mobile, there is a sweeping motion from top to bottom
 
-![Screenshot of classes.html](documentation/screencapture-classes.png "Classes and Pricing")
+![Screenshot of classes.html](documentation/screencapture-classes.png)
 
 ### Gallery
 
@@ -103,7 +105,7 @@ Links:
 * Larger screens will display pictures in three columns
 * The size of the photo will depend on the screen
 
-![Screenshot of gallery.html](documentation/screencapture-gallery.png "Gallery")
+![Screenshot of gallery.html](documentation/screencapture-gallery.png)
 
 ### News
 
@@ -111,7 +113,7 @@ Links:
 * It has three news items currently, each with an image which will respond to changes in screen size 
 * More items can be added in the future
 
-![Screenshot of news.html](documentation/screencapture-news.png "News")
+![Screenshot of news.html](documentation/screencapture-news.png)
 
 ### Contact Us
 
@@ -123,7 +125,7 @@ Links:
 * The page is responsive and the size of the map depends on the screen size
 
 
-![Screenshot of contact.html](documentation/screencapture-contact.png "Contact Us")
+![Screenshot of contact.html](documentation/screencapture-contact.png)
 
 ### Response Page
 
@@ -131,7 +133,7 @@ Links:
 * It contains a thank you message with the promise to get in touch with the user
 * After 10 seconds, the user will be automatically redirectd to the home page
 
-![Screenshot of response.html](documentation/screencapture-response.png "Response Page")
+![Screenshot of response.html](documentation/screencapture-response.png)
 
 ## Technologies Used
 
