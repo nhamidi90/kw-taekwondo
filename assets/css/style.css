@@ -376,6 +376,10 @@ td {
     right: 30px;
 }
 
+.belt-column {
+    width: 33%;
+}
+
 /*------------------gallery*/
 
 .gallery-container {
