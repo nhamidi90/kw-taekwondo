@@ -2,6 +2,25 @@
 
 ## Compatibility and responsiveness
 
+* The website was tested on three browsers to determine correct appearance, responsiveness and to ensure it works well
+* It was tested on Chrome, Firefox and Opera
+
+Chrome:
+
+![Screenshot of the website on Chrome](documentation/screenshot-chrome.png)
+
+Firefox:
+
+![Screenshot of the website of firefox](documentation/screenshot-firefox.png)
+
+Opera:
+
+![Screenshot of the website on Opera](documentation/screenshot-opera.png)
+
+* The responsiveness of the site was also tested using the Chrome extension 'Responsive Viewer'
+
+![Screenshot of the website on different devices](documentation/screenshot-responsive-viewer.png)
+
 ## Validator testing
 
 ### HTML
