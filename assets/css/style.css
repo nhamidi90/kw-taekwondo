@@ -67,7 +67,8 @@ h3 {
     color: #f0faff;
     font-size: 90px;
     position: absolute;
-    bottom: 150px;
+    top: 450px;
+    z-index: 1;
     text-align: center;
     width: 100%;
     margin: 0;
