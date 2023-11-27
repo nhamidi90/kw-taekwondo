@@ -31,6 +31,7 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 * The mobile navbar is located at the top of the screen. The logo is on the left an the toggle button on the right so you can open it up. If the viewer is using a desktop or large tablet, this will be hidden.
 * The navbar for larger screens is located underneath the hero image. It spreads across the length of the page and is responsive; should need be, the links will overflow to the second line. As the user scrolls down, the navbar will move and stick to the top of the screen. The navbar is easy to navigate and links have an animated effect upon hover. If the user is using a mobile or small tablet, this will be hidden.
 * In addition, there will be a bar above the hero image displaying the logo on the left and a 'book a free session' button on the right leading too the contact page. The button has an animated effect upon hover.
+* All pages will include the navbar
 
 Links: 
 * Home – leads to the home page where visitors can learn about the club and instructor
@@ -53,6 +54,7 @@ Links:
 * The footer is responsive. In mobile view, you will only see the social icons. 
 * On larger screens you will have information on the company including the address, web address, phone number and links to social media
 * The links to social media have an animated hover effect
+* All pages will include the footer
 
 ![Screenshot of the compact footer](documentation/screenshot-footer-small.png "Compact footer")
 
@@ -89,17 +91,38 @@ Links:
 
 ### Gallery
 
+* This page has photos arranged in columns which will change depending on the size of the screen
+* Smaller screens will display pictures in two columns
+* Larger screens will display pictures in three columns
+* The size of the photo will depend on the screen
+
 ![Screenshot of gallery.html](documentation/screencapture-gallery.png "Gallery")
 
 ### News
+
+* This is a page for the instructor to use to inform their students or any visitor of any news happening in the club
+* It has three news items currently, each with an image which will respond to changes in screen size 
+* More items can be added in the future
 
 ![Screenshot of news.html](documentation/screencapture-news.png "News")
 
 ### Contact Us
 
+* This is where visitors can contact the instructor using the form or see any contact information for themselves
+* On the form, only the name and email address are required
+* The submit button is animated upon hover
+* It includes links to social media with a hover effect
+* Visitors can also see a map to the site where classes are held
+* The page is responsive and the size of the map depends on the screen size
+
+
 ![Screenshot of contact.html](documentation/screencapture-contact.png "Contact Us")
 
 ### Response Page
+
+* After the user submits a form, they will be directed here
+* It contains a thank you message with the promise to get in touch with the user
+* After 10 seconds, the user will be automatically redirectd to the home page
 
 ![Screenshot of response.html](documentation/screencapture-response.png "Response Page")
 
