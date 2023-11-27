@@ -40,6 +40,14 @@ Response page
 
 ### CSS
 
+* No errors were found when passing through the official W3C validator
+
+![Screenshot of CSS validation results](documentation/css-validator-results.png)
+
+* 10 warnings were given
+
+![Screenshot of CSS validator warnings](documentation/css-validator-warnings.png)
+
 ## Lighthouse report
 
 Home page
