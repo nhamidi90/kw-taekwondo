@@ -441,5 +441,6 @@ Contact form
 
 ## Acknowledgements
 
-* Code Institute - For without their guidance I would not be able to make this website
+* Code Institute - This website would not have been possible without their tutorials and walkthroughs. Tutors and slack community gave me help when I had difficulty
 * Tamsin Davis - My taekwondo instructor who gave me lots of information on taekwondo
+* Julie Konovalova - My mentor who has given me a lot of guidance throughout this project
