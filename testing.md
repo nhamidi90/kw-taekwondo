@@ -47,7 +47,7 @@ Opera:
 |"Find out more" button in about us section	|Click on the "Find out more" button|	The user is redirected to the classes page	|Yes|	Yes	|-|
 |Link to British Taekwondo Council website	|Click on the "British Taekwondo Council" link|	The user is redirected to the British Taekwondo Council website	|Yes|	Yes	|-|
 |**About Taekwondo  page**			|		
-|Link to  UK ITF website |Click on the "UK International Taekwondo Federation" link|The user is redirected to the UKITF page|	Yes|	Yes	|-|
+|Link to  UK ITF website |Click on the "UK International Taekwondo Federation" link|The user is redirected to the UK ITF page|	Yes|	Yes	|-|
 |**Classes and pricing page** |
 | Children's classes "Book a trial class" button | Click on the "Book a trial class" button | The user is redirected to the contact page | Yes | Yes | - |
 | Children's classes hover effect | Hover over the children's class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
@@ -57,7 +57,7 @@ Opera:
 | Mixed classes hover effect | Hover over the mixed class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
 |**Contact page**|				
 |Name input	|Enter your name	|The name is entered|	Yes	|Yes|	If user doesn't enter a name, an error message appears|
-|Email input|	Enter the email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
+|Email input|	Enter your email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
 |Phone input|Enter your phone number |The number is entered | Yes |Yes|-|
 |Message input| Enter a message| A message is entered| Yes | Yes | - |
 |"Send!" button|Click on the "Send!" button	|The user is redirected to the response page|	Yes	|Yes|	-|
@@ -73,33 +73,47 @@ Home page
 
 * 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 
+![Screenshot of HTML validation results for home page](documentation/html-validator-home.png)
+
 About Taekwondo page
 
 * 19 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 
+![Screenshot of HTML validation results for about taekwondo page](documentation/html-validator-abouttkd.png)
+
 Classes page
 
 * 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+
+![Screenshot of HTML validation results for classes page](documentation/html-validator-classes.png)
 
 Gallery page
 
 * 11 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 * 1 warning was given stating 'section lacks heading'
 
+![Screenshot of HTML validation results for gallery page](documentation/html-validator-gallery.png)
+
 News page
 
 * 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 * 3 warning was given stating 'section lacks heading'
+
+![Screenshot of HTML validation results for news page](documentation/html-validator-news.png)
 
 Contact Us page
 
 * 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 * 1 warning was given stating 'section lacks heading'
 
+![Screenshot of HTML validation results for contact page](documentation/html-validator-contact.png)
+
 Response page
 
 * 10 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
 * 1 warning was given stating 'section lacks heading'
+
+![Screenshot of HTML validation results for response page](documentation/html-validator-response.png)
 
 ### CSS
 
