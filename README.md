@@ -153,6 +153,7 @@ Links:
 * [Gallery](documentation/large-gallery.png)
 * [News](documentation/large-news.png)
 * [Contact Us](documentation/large-contact.png)
+* [Response](documentation/large-response.png)
 
 ### Tablet screen (small and large)
 * [Home](documentation/tablet-home.png)
@@ -161,6 +162,7 @@ Links:
 * [Gallery](documentation/tablet-gallery.png)
 * [News](documentation/tablet-news.png)
 * [Contact Us](documentation/tablet-contact.png)
+* [Response](documentation/tablet-response.png)
 
 ### Mobile screen
 * [Home](documentation/mobile-home.png)
@@ -169,6 +171,7 @@ Links:
 * [Gallery](documentation/mobile-gallery.png)
 * [News](documentation/mobile-news.png)
 * [Contact Us](documentation/mobile-contact.png)
+* [Response](documentation/mobile-response.png)
 
 ## Testing
 
