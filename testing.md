@@ -47,7 +47,7 @@ Opera:
 |"Find out more" button in about us section	|Click on the "Find out more" button|	The user is redirected to the classes page	|Yes|	Yes	|-|
 |Link to British Taekwondo Council website	|Click on the "British Taekwondo Council" link|	The user is redirected to the British Taekwondo Council website	|Yes|	Yes	|-|
 |**About Taekwondo  page**			|		
-|Link to  UK ITF website |Click on the "UK International Taekwondo Federation" link|The user is redirected to the UKITF page|	Yes|	Yes	|-|
+|Link to  UK ITF website |Click on the "UK International Taekwondo Federation" link|The user is redirected to the UK ITF page|	Yes|	Yes	|-|
 |**Classes and pricing page** |
 | Children's classes "Book a trial class" button | Click on the "Book a trial class" button | The user is redirected to the contact page | Yes | Yes | - |
 | Children's classes hover effect | Hover over the children's class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
@@ -57,7 +57,7 @@ Opera:
 | Mixed classes hover effect | Hover over the mixed class section | There will be a sweeping motion from top to bottom | Yes | Yes | - |
 |**Contact page**|				
 |Name input	|Enter your name	|The name is entered|	Yes	|Yes|	If user doesn't enter a name, an error message appears|
-|Email input|	Enter the email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
+|Email input|	Enter your email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
 |Phone input|Enter your phone number |The number is entered | Yes |Yes|-|
 |Message input| Enter a message| A message is entered| Yes | Yes | - |
 |"Send!" button|Click on the "Send!" button	|The user is redirected to the response page|	Yes	|Yes|	-|
