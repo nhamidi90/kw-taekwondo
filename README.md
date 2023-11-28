@@ -218,7 +218,7 @@ The live link can be found [here](https://nhamidi90.github.io/kw-taekwondo)
 
 Homepage 
  * [Instructor](https://pixabay.com/photos/woman-model-karate-taekwondo-sport-6916304/)
- * [Above quote 1](https://images.pexels.com/photos/7045593/pexels-photo-7045593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+ * [Above quote 1](https://www.pexels.com/photo/man-and-girl-in-martial-arts-bowing-down-7045593/)
  * [Above quote 2](https://www.pexels.com/photo/a-group-of-people-standing-barefooted-while-wearing-taekwondo-uniform-7045673/)
 
  Gallery
