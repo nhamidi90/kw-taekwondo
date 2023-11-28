@@ -165,7 +165,7 @@ Links:
 ### Mobile screen
 * [Home](documentation/mobile-home.png)
 * [About taekwondo](documentation/mobile-abouttkd.png)
-* [Classes](documentation/mobile-classes.png
+* [Classes](documentation/mobile-classes.png)
 * [Gallery](documentation/mobile-gallery.png)
 * [News](documentation/mobile-news.png)
 * [Contact Us](documentation/mobile-contact.png)
@@ -244,6 +244,7 @@ News
 
 * [Color space](https://mycolor.space/) was used to pick a colour scheme
 * [Tinypng](https://tinypng.com/) and [iLoveIMG](https://www.iloveimg.com/compress-image) were used to compress images
+* [online-convert](https://image.online-convert.com/convert-to-webp) was used to convert images to webp
 
 ### Code
 
