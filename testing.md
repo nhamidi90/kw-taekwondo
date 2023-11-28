@@ -129,17 +129,31 @@ Response page
 
 Home page
 
+![Screenshot of lighthouse report: home page](documentation/lighthouse-home.png)
+
 About Taekwondo page
+
+![Screenshot of lighthouse report: about taekwondo page](documentation/lighthouse-abouttkd.png)
 
 Classes page
 
+![Screenshot of lighthouse report: classes and pricing page](documentation/lighthouse-classes.png)
+
 Gallery page
+
+![Screenshot of lighthouse report: gallery page](documentation/lighthouse-gallery.png)
 
 News page
 
+![Screenshot of lighthouse report: news page](documentation/lighthouse-news.png)
+
 Contact Us page
 
+![Screenshot of lighthouse report: contact page](documentation/lighthouse-contact.png)
+
 Response page
+
+![Screenshot of lighthouse report: response page](documentation/lighthouse-response.png)
 
 ## Bugs
 
