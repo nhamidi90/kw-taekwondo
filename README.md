@@ -54,7 +54,7 @@ Links:
 ## Hero image
 
 * The hero image is located at the top of the page
-* On all pages apart from the home page it includes the page title
+* On all pages apart from the home and response pages it includes the page title
 
 ![Screenshot of the hero image](documentation/screenshot-hero.png)
 
@@ -71,7 +71,7 @@ Links:
 
 ### Home page
 
-*	Includes an introduction the club and reasons why you should study taekwondo. There is a button at the end of the section leading to the contact page with a hover effect
+*	Includes an introduction the club and reasons why you should study taekwondo. There is a button at the end of the section leading to the classes and pricing page with a hover effect
 *	Includes a couple of quotes from students with some pictures
 *	Includes a picture and introduction to the instructor. There is an external link to the British taekwondo Council website for users to find out more which opens in a new tab
 * The page is responsive to screen size
