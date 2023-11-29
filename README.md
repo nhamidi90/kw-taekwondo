@@ -137,12 +137,15 @@ Links:
 
 ## Technologies Used
 
-* HTML was used to make the main content of the site
-* CSS was used to add styling
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used to make the main content of the site
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) was used to add styling
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) was used to align items on the page
 * [Bootstrap](https://getbootstrap.com/) code was used to create various tools including the navbar for mobile view, contact form, buttons and grid system
 * [Visual Studio Code](https://code.visualstudio.com/) was the programme used to write and edit code
 * [Balsamiq](https://balsamiq.com/) was used to make wireframes
+* [Git](https://git-scm.com/) was used for source control management
 * [GitHub pages](https://pages.github.com/) hosts the website. The live link is [here](https://nhamidi90.github.io/kw-taekwondo/)
+* [Adobe photoshop](https://www.adobe.com/uk/products/photoshop.html) was used to crop images for the README.md file
 
 ## Wireframes
 
