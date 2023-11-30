@@ -646,17 +646,6 @@ footer {
 
 /*------------------media queries*/
 
-@media screen and (max-width: 600px) {
-
-    .about-me {
-        padding: 20px;
-    }
-
-    .grade {
-        text-align: left;
-    }
-}
-
 @media screen and (max-width: 900px) {
 
     .page-heading {
@@ -731,6 +720,17 @@ footer {
 
     .navbar {
         display: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .about-me {
+        padding: 20px;
+    }
+
+    .grade {
+        text-align: left;
     }
 }
 
