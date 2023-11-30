@@ -58,8 +58,8 @@ Opera:
 |**Contact page**|				
 |Name input	|Enter your name	|The name is entered|	Yes	|Yes|	If user doesn't enter a name, an error message appears|
 |Email input|	Enter your email	|The email is entered|	Yes	|Yes	|If user doesn't enter an email in the right format, an error message appears|
-|Phone input|Enter your phone number |The number is entered | Yes |Yes|-|
-|Message input| Enter a message| A message is entered| Yes | Yes | - |
+|Phone input|Enter your phone number |The number is entered | Yes |Yes|This is not required because users may not want to be contacted by phone|
+|Message input| Enter a message| A message is entered| Yes | Yes | This is not required because users may not want to write a message |
 |"Send!" button|Click on the "Send!" button	|The user is redirected to the response page|	Yes	|Yes|	-|
 |Map|Drag the map and click on the zoom buttons|The map is moved around and the user can zoom in and out|	Yes	|Yes|	-|
 |**Response page**					|
