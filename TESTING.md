@@ -266,3 +266,8 @@ CSS
 
 -->
 
+## Mistakes
+
+* I made some mistakes while committing messages. There were times I should have been more specific in what I was changing
+* There were times when I wrote 'Initial commit' when re-uploading pictures when I should have said I was replacing it instead
+* I have now learnt while progressing to be more specific and to write better commit messages
