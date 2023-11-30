@@ -4,6 +4,8 @@ Koryeo Warriors Taekwondo allows visitors to find out about their local taekwond
 
 ![Screenshot of the website on different devices](documentation/screenshot-amiresponsive.png)
 
+The live link can be found [here](https://nhamidi90.github.io/kw-taekwondo)
+
 ## User stories
 
 ### First time visitor goals:
