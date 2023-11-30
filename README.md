@@ -146,6 +146,7 @@ Links:
 * [Visual Studio Code](https://code.visualstudio.com/) was the programme used to write and edit code
 * [Balsamiq](https://balsamiq.com/) was used to make wireframes
 * [Git](https://git-scm.com/) was used for source control management
+* [GitHub](https://github.com/) was used to store code for the website
 * [GitHub pages](https://pages.github.com/) hosts the website. The live link is [here](https://nhamidi90.github.io/kw-taekwondo/)
 * [Adobe photoshop](https://www.adobe.com/uk/products/photoshop.html) was used to crop images for the README.md file
 
