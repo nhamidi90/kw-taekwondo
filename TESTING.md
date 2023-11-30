@@ -201,10 +201,11 @@ Response page
 <!--
 HTML
 
- <nav class="navbar navbar-dark">
+<nav class="navbar navbar-dark">
             <div class="container-fluid">
-                <div class=logo-mobile><a href="index.html" aria-label="Go to the home page">Koryo Warriors
-                        Taekwondo</a>
+
+                <div class=logo-mobile>
+                    <a href="index.html" aria-label="Go to the home page of Koryo Warriors Taekwondo">Koryo Warriors Taekwondo</a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -212,39 +213,47 @@ HTML
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="index.html"
-                                aria-label="Go to the home page">Home</a></li>
+                                aria-label="Go to the home page">Home</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link" href="abouttkd.html" aria-label="Learn about taekwondo">About
-                                Taekwondo</a></li>
+                            <a class="nav-link" href="abouttkd.html"
+                                aria-label="Learn about taekwondo to see if it interests you">About
+                                Taekwondo</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="classes.html"
-                                aria-label="Find out about classes">Classes</a></li>
+                            <a class="nav-link" href="classes.html"
+                                aria-label="Find out about classes to see if it's right for you">Classes</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="gallery.html"
-                                aria-label="Go to the gallery to see pictures of us training">Gallery</a></li>
+                            <a class="nav-link" href="gallery.html"
+                                aria-label="Go to the gallery to see pictures of us training">Gallery</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="news.html"
-                                aria-label="Find out the latest news happening in our club">News</a></li>
+                            <a class="nav-link" href="news.html"
+                                aria-label="Find out the latest news happening in our club">News</a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="contact.html"
-                                aria-label="Click here to Contact us">Contact
-                                Us</a></li>
+                            <a class="nav-link" href="contact.html"
+                                aria-label="Click here to contact us for more information">Contact
+                                Us</a>
                         </li>
+                    </ul>
                 </div>
             </div>
         </nav>
 
 
 CSS
-
 
 @media screen and (max-width: 900px) {     
     
