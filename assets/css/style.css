@@ -501,6 +501,10 @@ div.news-section {
     padding: 20px;
 }
 
+.news-text > .dates-heading {
+    color: #2D0D30;
+}
+
 .image-container {
     padding: 0;
     margin: auto;
