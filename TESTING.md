@@ -71,47 +71,58 @@ Opera:
 
 Home page
 
-* 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens). 
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 
 ![Screenshot of HTML validation results for home page](documentation/html-validator-home.png)
 
 About Taekwondo page
 
 * 19 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 
 ![Screenshot of HTML validation results for about taekwondo page](documentation/html-validator-abouttkd.png)
 
 Classes page
 
 * 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 
 ![Screenshot of HTML validation results for classes page](documentation/html-validator-classes.png)
 
 Gallery page
 
 * 11 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 * 1 warning was given stating 'section lacks heading'
+* I understand this warning but it was my decision to not include a heading
 
 ![Screenshot of HTML validation results for gallery page](documentation/html-validator-gallery.png)
 
 News page
 
 * 16 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 * 3 warning was given stating 'section lacks heading'
+* I understand this warning but it was my decision to not include a heading
 
 ![Screenshot of HTML validation results for news page](documentation/html-validator-news.png)
 
 Contact Us page
 
 * 15 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 * 1 warning was given stating 'section lacks heading'
+* I understand this warning but it was my decision to not include a heading
 
 ![Screenshot of HTML validation results for contact page](documentation/html-validator-contact.png)
 
 Response page
 
 * 10 warnings were given when passing through the official W3C validator due to comments in my HTML (having two consecutive hyphens)
+* I believe this is due to WC3 being outdated. Despite these warnings, everything is working across all different devices as I checked
 * 1 warning was given stating 'section lacks heading'
+* I understand this warning but it was my decision to not include a heading
 
 ![Screenshot of HTML validation results for response page](documentation/html-validator-response.png)
 
@@ -122,6 +133,7 @@ Response page
 ![Screenshot of CSS validation results](documentation/css-validator-results.png)
 
 * 10 warnings were given
+* These are due to the use of webkits as the W3C is outdated and does not recognise the use of them. But the website is working 100% across all different devices as I checked
 
 ![Screenshot of CSS validator warnings](documentation/css-validator-warnings.png)
 
