@@ -19,7 +19,33 @@ Opera:
 
 * The responsiveness of the site was also tested using the Chrome extension 'Responsive Viewer'
 
-![Screenshot of the website on different devices](documentation/screenshot-responsive-viewer.png)
+Home page 
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-index.png)
+
+About TKD
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-abouttkd.png)
+
+Classes and pricing
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-classes.png)
+
+Gallery
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-gallery.png)
+
+News
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-news.png)
+
+Contact Us
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-contact.png)
+
+Response page
+
+![Screenshot of the home page on different devices](documentation/responsive-screenshots/responsive-response.png)
 
 ## Manual testing
 
