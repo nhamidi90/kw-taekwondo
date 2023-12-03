@@ -53,6 +53,7 @@ Response page
 |-----------|-------|---------------|-----------|-------|--------|
 |**Main Navbar**					|
 |Button in top bar |Click on the "Book a free session" button| The user is redirected to the contact page | Yes | Yes | - |
+|Sticky Navbar |Scroll down| The navbar will stick to the top of the page | Yes | Yes | - |
 |Home	|Click on the "Home" link	|The user is redirected to the main page|	Yes|	Yes	|-|
 |About taekwondo	|Click on the "About Taekwondo" link|	The user is redirected to the about taekwondo page|	Yes	|Yes|	-|
 |Classes and pricing|Click on the "Classes" link|	The user is redirected to the classes and pricing page|	Yes	|Yes|	-|
