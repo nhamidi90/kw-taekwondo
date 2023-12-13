@@ -411,7 +411,7 @@ td {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    min-height: 95%;
+    height: 95%;
 }
 
 .class-info p {
