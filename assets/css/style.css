@@ -111,7 +111,7 @@ section.row {
     align-items: center;
     justify-content: space-between;
     background-color: #04223a;
-    padding-right: 25px;
+    padding-right: 90px;
     height: auto;
 }
 
@@ -142,12 +142,12 @@ section.row {
     height: 45px;
     font-family: "roboto", sans-serif;
     font-size: 18px;
-    color: #04223a;
-    background-color: #f0faff;
+    background-color: #FFC75F;
 }
 
 .contact-button:hover {
-    background-color: #DFA01F;
+    color: #04223a;
+    background-color: #f0faff;
 }
 
 #hero-image {
