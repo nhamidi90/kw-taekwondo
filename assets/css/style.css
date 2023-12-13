@@ -348,6 +348,7 @@ td {
     font-weight: bold;
     float: left;
     color: #2D0D30;
+    padding-top: 20px;
 }
 
 .tenet-desc {
@@ -355,7 +356,7 @@ td {
     float: right;
     width: 66%;
     margin: 0;
-    padding: 5px;
+    padding: 10px;
 }
 
 .kup {
