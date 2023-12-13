@@ -33,7 +33,7 @@ body {
 }
 
 p {
-    margin-bottom: 30px;
+    margin: 30px;
     font-size: 20px;
 }
 
@@ -739,5 +739,9 @@ footer {
 
     .response {
         width: 90%;
+    }
+
+    p {
+        margin: 30px 0;
     }
 }
